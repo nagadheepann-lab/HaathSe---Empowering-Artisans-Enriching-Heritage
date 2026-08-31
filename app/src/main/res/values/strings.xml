@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HaathSe</string>
+    <string name="app_tagline">Your craft. Your story. Your business.</string>
+    <string name="app_meaning">Made by Hand</string>
+    
+    <!-- Onboarding & Roles -->
+    <string name="welcome_title">Welcome to HaathSe</string>
+    <string name="welcome_subtitle">Made by hand. Powered by people and AI.</string>
+    <string name="role_artisan_title">I am an Artisan / Weaver</string>
+    <string name="role_artisan_desc">Sell your craft, create AI photography &amp; voice catalogs, get smart pricing, and access B2B bulk orders.</string>
+    <string name="role_buyer_title">I am a Conscious Buyer / B2B Sourcing</string>
+    <string name="role_buyer_desc">Discover authentic verified handmade products, verify craft lineages via QR Passport, and request custom bulk quotations.</string>
+    <string name="role_admin_title">Policy, Schemes &amp; Craft Cluster Hub</string>
+    
+    <!-- Actions -->
+    <string name="btn_get_started">Enter Platform</string>
+    <string name="btn_enter_artisan">Enter Artisan Studio</string>
+    <string name="btn_explore_crafts">Explore Authentic Crafts</string>
+    <string name="btn_select_language">Choose Language</string>
+    <string name="btn_try_again">Try Again</string>
+    
+    <!-- Common Badges & Labels -->
+    <string name="badge_verified_heritage">Verified Heritage Craft</string>
+    <string name="badge_gi_tagged">GI Tagged</string>
+    <string name="badge_fair_price">Fair Sustainable Price</string>
+    <string name="label_smart_pricing">Smart Fair-Wage Pricing</string>
+    <string name="label_craft_story">Authentic Craft Story</string>
+    <string name="label_craft_qr_passport">Craft QR Passport</string>
+</resources>

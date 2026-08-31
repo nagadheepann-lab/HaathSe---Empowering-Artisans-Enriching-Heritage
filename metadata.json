@@ -1,0 +1,8 @@
+{
+  "name": "Remix HaathSe - set 2",
+  "description": "AI-Driven Market Linkage \u0026 Smart Cataloging Mobile Application for Marginalized Artisans (SIH 26090 - Ministry of Social Justice \u0026 Empowerment)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HaathSe (हात से)</string>
+    <string name="app_tagline">आपका शिल्प। आपकी कहानी। आपका व्यवसाय।</string>
+    <string name="app_meaning">हात से निर्मित</string>
+    
+    <string name="welcome_title">HaathSe में आपका स्वागत है</string>
+    <string name="welcome_subtitle">हाथ से निर्मित। जनशक्ति और AI द्वारा सशक्त।</string>
+    <string name="role_artisan_title">मैं एक कारीगर / बुनकर हूँ</string>
+    <string name="role_artisan_desc">अपना शिल्प बेचें, AI फोटोग्राफी व वॉइस कैटलॉग बनाएं, उचित मूल्य पाएं और B2B थोक ऑर्डर प्राप्त करें।</string>
+    <string name="role_buyer_title">मैं एक B2B खरीदार हूँ</string>
+    <string name="role_buyer_desc">प्रमाणित हस्तशिल्प खोजें, QR पासपोर्ट से शिल्प वंशावली जानें और थोक कोटेशन का अनुरोध करें।</string>
+    <string name="role_admin_title">नीति, योजनाएं एवं शिल्प क्लस्टर हब</string>
+    
+    <string name="btn_get_started">प्लेटफ़ॉर्म शुरू करें</string>
+    <string name="btn_enter_artisan">कारीगर स्टूडियो में प्रवेश करें</string>
+    <string name="btn_explore_crafts">हस्तशिल्प देखें</string>
+    <string name="btn_select_language">भाषा चुनें</string>
+    <string name="btn_try_again">पुनः प्रयास करें</string>
+    
+    <string name="badge_verified_heritage">सत्यापित पारंपरिक शिल्प</string>
+    <string name="badge_gi_tagged">GI टैग प्रमाणित</string>
+    <string name="badge_fair_price">उचित मूल्य</string>
+    <string name="label_smart_pricing">स्मार्ट उचित मजदूरी मूल्य निर्धारण</string>
+    <string name="label_craft_story">शिल्प की प्रामाणिक कहानी</string>
+    <string name="label_craft_qr_passport">शिल्प QR पासपोर्ट</string>
+</resources>
